@@ -1,0 +1,6 @@
+styled-components/.cache
+styled-components/dist
+styled-components/node_modules
+sass/.cache
+sass/dist
+sass/node_modules
