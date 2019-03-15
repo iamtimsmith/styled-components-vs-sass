@@ -4,3 +4,4 @@ styled-components/node_modules
 sass/.cache
 sass/dist
 sass/node_modules
+.DS_Store
